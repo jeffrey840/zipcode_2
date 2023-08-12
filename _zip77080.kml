@@ -18,12 +18,12 @@
         <scale>1.0</scale>
       </LabelStyle>
       <LineStyle>
-    <color>ff0000ff</color>
+    <color>FF008000</color>
     <width>2</width>
     <gx:labelVisibility>0</gx:labelVisibility>
 </LineStyle>
 <PolyStyle>
-    <color>ffccccff</color>
+    <color>FF90E090</color>
 </PolyStyle>
     </Style>
     <Schema name="cb_2016_us_zcta510_500k" id="kml_schema_ft_cb_2016_us_zcta510_500k">
