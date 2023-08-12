@@ -23,7 +23,7 @@
         <gx:labelVisibility>0</gx:labelVisibility>
       </LineStyle>
       <PolyStyle>
-        <color>7FE1CA9E</color>
+        <color>ff0000ff</color>
       </PolyStyle>
     </Style>
     <Schema name="cb_2016_us_zcta510_500k" id="kml_schema_ft_cb_2016_us_zcta510_500k">
