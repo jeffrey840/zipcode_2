@@ -18,13 +18,13 @@
         <scale>1.0</scale>
       </LabelStyle>
       <LineStyle>
-        <color>ffbc822f</color>
-        <width>2</width>
-        <gx:labelVisibility>0</gx:labelVisibility>
-      </LineStyle>
-      <PolyStyle>
-        <color>ffbc822f</color>
-      </PolyStyle>
+  <color>FF0000</color>
+  <width>2</width>
+  <gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+  <color>FF0000</color>
+</PolyStyle>
     </Style>
     <Schema name="cb_2016_us_zcta510_500k" id="kml_schema_ft_cb_2016_us_zcta510_500k">
       <SimpleField type="xsd:string" name="ZCTA5CE10">
