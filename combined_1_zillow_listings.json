@@ -1,4 +1,5 @@
-[
+{
+"props": [
     {
         "dateSold": null,
         "propertyType": "SINGLE_FAMILY",
@@ -12177,3 +12178,5 @@
         "hasImage": true
     }
 ]
+    ]
+}
