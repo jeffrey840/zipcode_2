@@ -12177,5 +12177,10 @@
             "lotAreaUnit": "sqft",
             "hasImage": true
         }
-    ]
+    ],
+	"resultsPerPage": 0,
+    "totalPages": 0,
+    "totalResultCount": 000,
+    "schools": {},
+    "currentPage": 1
 }
